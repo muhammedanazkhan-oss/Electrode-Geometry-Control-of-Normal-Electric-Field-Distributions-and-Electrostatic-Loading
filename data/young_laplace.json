@@ -1,0 +1,44 @@
+{
+  "Bond": 2.15,
+  "capillary_length_mm": 2.728,
+  "hemisphere_volume_uL": 134.0,
+  "shapes": [
+    {
+      "label": "hemisphere R=4mm (as submitted)",
+      "apex_h_mm": 4.0,
+      "foot_mm": 4.0,
+      "PP_apex": 1296000.0,
+      "PT_apex": 784300.0,
+      "reduction_pct": 39.5,
+      "PT_Vcross_kV": 9.73
+    },
+    {
+      "label": "YL gravity theta=70deg",
+      "apex_h_mm": 2.62,
+      "foot_mm": 5.17,
+      "PP_apex": 869300.0,
+      "PT_apex": 531600.0,
+      "reduction_pct": 38.8,
+      "PT_Vcross_kV": 14.35
+    },
+    {
+      "label": "YL gravity theta=90deg",
+      "apex_h_mm": 3.14,
+      "foot_mm": 4.52,
+      "PP_apex": 1000000.0,
+      "PT_apex": 608900.0,
+      "reduction_pct": 39.1,
+      "PT_Vcross_kV": 12.53
+    },
+    {
+      "label": "YL gravity theta=110deg",
+      "apex_h_mm": 3.58,
+      "foot_mm": 4.07,
+      "PP_apex": 1125000.0,
+      "PT_apex": 682200.0,
+      "reduction_pct": 39.4,
+      "PT_Vcross_kV": 11.18
+    }
+  ],
+  "conclusion": "PT/PP reduction shape-robust (38.8-39.5%); absolute Vcross carries +-20-30% shape uncertainty; hemisphere overestimates field vs gravity-flattened equilibrium."
+}

@@ -1,0 +1,36 @@
+{
+  "Rv_mm": 3.174476109612001,
+  "Lref": 1.4039984734773252,
+  "CaE_PP": 0.6499021399781391,
+  "CaE_PT": 0.23841556598724375,
+  "CaE_bare": 0.1528220839437073,
+  "field_reduction_pct": 39.43198790672046,
+  "loading_reduction_pct": 63.315159110683425,
+  "CaE_double": 0.18381391405235803,
+  "tip_per_V_range": [
+    1189,
+    2534
+  ],
+  "corona_kV_range": [
+    2.5,
+    5.5
+  ],
+  "corona_note": "tip field not converged; screening only",
+  "gci_Emax_pct": 6.16,
+  "gci_Emax_ext_d6": 685000.0,
+  "dom3d_d6_pct": 0.34,
+  "fem_d6_speak_mm": [
+    5.73,
+    5.63
+  ],
+  "fem_double_peaks": {
+    "fd": [
+      3.52,
+      9.04
+    ],
+    "fem": [
+      3.85,
+      8.83
+    ]
+  }
+}

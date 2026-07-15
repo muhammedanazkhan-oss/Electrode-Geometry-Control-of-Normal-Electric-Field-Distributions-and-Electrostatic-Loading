@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the software (this deposit) and the associated article."
+title: "Electrode-Geometry Control of Normal Electric-Field Distributions and Electrostatic Loading on Sessile-Droplet Interfaces: source code and data"
+version: "1.0"
+license: MIT
+type: software
+authors:
+  - family-names: "Obaid"
+    given-names: "Fahad Sulaiman Mohammed"
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha, Saudi Arabia"
+  - family-names: "Khan"
+    given-names: "Muhammed Anaz"
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha, Saudi Arabia"
+    email: mkhan@ub.edu.sa
+abstract: >-
+  Finite-difference and finite-element solvers, Young-Laplace shape solver,
+  surrogate and Bayesian-optimisation pipelines, computed data and figure scripts
+  supporting a study of how electrode geometry redistributes the normal electric
+  field and the dimensionless electrostatic loading over a prescribed sessile
+  conducting droplet interface.
+keywords:
+  - electrohydrodynamics
+  - electric capillary number
+  - sessile droplet
+  - finite-difference method
+  - Laplace equation
+  - grid convergence
+  - Gaussian-process regression
+  - Bayesian optimisation
